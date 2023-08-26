@@ -1,4 +1,28 @@
-# Hi there, I'm Erik! 👋
+# Hey there! 👋 I'm Erik
+
+🎓 Electronics Engineering Graduate | 🌱 Aspiring Software Engineer
+
+Welcome to my GitHub profile! I'm excited to share my journey with you.
+
+## About Me
+
+I'm a recent graduate with a degree in Electronic Engineering, passionate about technology and its applications. My academic journey has equipped me with problem-solving skills and a knack for understanding complex systems.
+
+## 🚀 Pursuing Software Engineering
+
+Currently, I'm diving headfirst into the world of software engineering through the immersive program at 42 Wolfsburg. This journey has been a thrilling exploration of coding, algorithms, and creating meaningful applications.
+
+## Let's Connect!
+
+Let's embark on this coding adventure together. Feel free to connect with me on [LinkedIn](www.linkedin.com/in/erik-seferi-393438202) to exchange insights and ideas.
+
+📫 You can also reach me via email at [my@mailbox.com](mailto:rk.seferi@gmail.com).
+
+## Portfolio
+
+Curious about my projects? Explore the repositories I have in github, especially 42 projects which have been till now challenging :D
+
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Vikingu-del&theme=dark&show_icons=true" />
 
