@@ -16,7 +16,7 @@ Currently, I'm diving headfirst into the world of software engineering through t
 
 Let's embark on this coding adventure together. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/erik-seferi-393438202/) to exchange insights and ideas.
 
-📫 You can also reach me via email at [my@mailbox.com](mailto:rk.seferi@gmail.com).
+📫 You can also reach me via [email](mailto:rk.seferi@gmail.com).
 
 ## Portfolio
 
